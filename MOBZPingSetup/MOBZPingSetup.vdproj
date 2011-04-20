@@ -102,7 +102,7 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:2.0.50727"
+                "FrameworkVersion" = "8:.NETFramework,Version=v2.0"
                 "AllowLaterVersions" = "11:FALSE"
                 "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=9832"
                 }
@@ -167,7 +167,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:MOBZPing"
         "ProductCode" = "8:{6019590E-DA95-4AF9-A9C7-DA65C6A410B1}"
-        "PackageCode" = "8:{E40CFED7-D6B8-4AFD-9BE5-1CF5EB0F292B}"
+        "PackageCode" = "8:{0242BEFD-77B3-4205-B3E5-DEEE1A538D96}"
         "UpgradeCode" = "8:{37149782-27AB-462F-A7D9-F32B0D2327B8}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -702,7 +702,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_733122E9915F45BB98FFE4D187DB3E1B"
             {
-            "SourcePath" = "8:..\\obj\\Debug\\MOBZPing.exe"
+            "SourcePath" = "8:..\\MOBZPing\\obj\\Debug\\MOBZPing.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_200782944A9F4CE3AA7178B1CDE9F1FE"
