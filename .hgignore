@@ -1,5 +1,5 @@
 syntax: glob
-MOBZPing.suo
-MOBZPing/bin/Debug/MOBZPing.vshost.exe
-MOBZPing/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-MOBZPing/MOBZPing.vbproj.user
+*.suo
+*.vbproj.user
+*/Debug/*
+*/Release/*
