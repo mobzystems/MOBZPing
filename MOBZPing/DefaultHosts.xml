@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mobzping version="1.0">
+  <hosts>
+    <host name="www.google.com" />
+    <host name="www.google.nl" />
+    <host name="www.google.cn" />
+    <host name="www.mobzystems.com" />
+  </hosts>
+</mobzping>

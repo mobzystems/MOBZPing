@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MOBZPing", "MOBZPing\MOBZPing.vbproj", "{44D63C3C-BC73-4379-A799-65A35938EEA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MOBZPingSetup", "MOBZPingSetup\MOBZPingSetup.vdproj", "{E909D159-8C4C-4F2A-9D49-91F5CF1DF58A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D63C3C-BC73-4379-A799-65A35938EEA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D63C3C-BC73-4379-A799-65A35938EEA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D63C3C-BC73-4379-A799-65A35938EEA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D63C3C-BC73-4379-A799-65A35938EEA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E909D159-8C4C-4F2A-9D49-91F5CF1DF58A}.Debug|Any CPU.ActiveCfg = Debug
+		{E909D159-8C4C-4F2A-9D49-91F5CF1DF58A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
